@@ -10,3 +10,7 @@ To be honest, I have watched most of Andrew Ng's courses from September to Octob
 In 2021/12/12 I finished the first programming assignment, I have to pick up the pace to complete the rest of the assignments! Wish me luck! I can handle it.
 
 In 2021/12/14 I finished the second assignment!
+
+In 2021/12/17 I finished the 3rd assignment. This week's assignment is truly a little bit long but at the same time I have learned more, such as some fine-tuning tricks on 
+the Weights Initialization step and other hyperparameters tuning. This owes in large part to the demonstrated ability of Andrew Ng's detailed manuscripts! Hopefully I will 
+learn more in the following days. 
